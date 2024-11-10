@@ -2,7 +2,7 @@
 
 
 int main() {
-	std::cout << "size of vector x:";
+	std::cout << "size of vectors x and f:";
 	std::size_t size;
 	std::cin >> size;
 	assert(size > 0);
